@@ -27,10 +27,10 @@ This system addresses the core challenges of library operations, from managing b
 3. Import the SQL schema and data to your system.
 4. Run the provided queries to manage books, track members, and generate detailed reports.
 
-### 📬 **Contact Information**
-- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com)
-- **GitHub**: [arundeepp9393](https://github.com/arundeepp9393)
-- **LinkedIn**: [Arun Deep](https://www.linkedin.com/in/arun-deep-04964b258/)
+## 🔗 Connect with me :
+- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/) 🌐
+- **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
+- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
 
 ---
 
